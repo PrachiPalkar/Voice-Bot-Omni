@@ -1,2 +1,2 @@
-EMAIL="projectworking12@gmail.com"
-PASSWORD="prowork12"
+EMAIL="Enter your mail id"
+PASSWORD="Enter your password"
